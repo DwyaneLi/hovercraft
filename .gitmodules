@@ -1,15 +1,15 @@
 [submodule "r2p2"]
 	path = r2p2
-	url = https://github.com/epfl-dcsl/r2p2
+	url = git@github.com:DwyaneLi/r2p2.git
 [submodule "raft"]
 	path = raft
-	url = https://github.com/epfl-dcsl/raft/
+	url = git@github.com:DwyaneLi/raft.git
 [submodule "lancet-tool"]
 	path = lancet-tool
-	url = https://github.com/epfl-dcsl/lancet-tool
+	url = git@github.com:DwyaneLi/lancet-tool.git
 [submodule "distbenchr"]
 	path = distbenchr
-	url = https://github.com/marioskogias/distbenchr/
+	url = git@github.com:DwyaneLi/distbenchr.git
 [submodule "redis"]
 	path = redis
-	url = https://github.com/epfl-dcsl/redis/
+	url = git@github.com:DwyaneLi/redis.git
